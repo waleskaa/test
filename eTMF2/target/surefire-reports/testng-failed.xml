@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="eTMF1(failed)">
+    <classes>
+      <class name="eTMF1.eTMF2.Logging">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- eTMF1.eTMF2.Logging -->
+    </classes>
+  </test> <!-- eTMF1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

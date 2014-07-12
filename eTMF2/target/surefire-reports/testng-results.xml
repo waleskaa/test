@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9901" started-at="2014-07-08T14:24:12Z" finished-at="2014-07-08T14:24:22Z">
+    <groups>
+    </groups>
+    <test name="eTMF1" duration-ms="9901" started-at="2014-07-08T14:24:12Z" finished-at="2014-07-08T14:24:22Z">
+      <class name="eTMF1.eTMF2.Logging">
+        <test-method status="PASS" signature="login()[pri:0, instance:eTMF1.eTMF2.Logging@25fa1bb6]" name="login" duration-ms="9891" started-at="2014-07-08T16:24:12Z" finished-at="2014-07-08T16:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- eTMF1.eTMF2.Logging -->
+    </test> <!-- eTMF1 -->
+  </suite> <!-- Suite -->
+</testng-results>

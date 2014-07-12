@@ -12,7 +12,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.WebElement;
 
 public class Logging {
-
+//qqqqrrrrrrrrrwwwwwqqqqqqqqqqq mać nie działa
 	public WebDriver driver;
 	public WebDriverWait wait; 
 	public WebElement Element; 
